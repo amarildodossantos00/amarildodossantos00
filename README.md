@@ -34,6 +34,7 @@
 
 ## Analytics
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarildodossantos00&theme=merko)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amarildodossantos00&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
