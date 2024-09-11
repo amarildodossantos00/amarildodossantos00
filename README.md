@@ -1,7 +1,7 @@
 
 ### Hello! I'm Amarildo dos Santos 👋👽
 
-[![Blog](https://img.shields.io/website?label=CODALIEN.com&style=for-the-badge&url=https://codalien.com/)](https://codalien.com)
+[![Blog](https://img.shields.io/website?label=ALIENSPACE.com&style=for-the-badge&url=https://alienspace.com/)](https://alienspace.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@amarildodossantos00)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/@amarildodossantos00)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.com/@amarildodossantos00)
